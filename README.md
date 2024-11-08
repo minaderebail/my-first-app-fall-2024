@@ -34,7 +34,7 @@ ALPHAVANTAGE_API_KEY="..."
 Run the example script:
 
 ```sh
-python app/my_script.py
+python app/example.py
 ```
 
 
